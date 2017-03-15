@@ -24,3 +24,5 @@ create sequence seq_gallery
 start with 1
 increment by 1
 maxValue 9999999999;
+
+commit;
